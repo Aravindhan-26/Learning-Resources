@@ -9,5 +9,8 @@
 - ## Header two - \#\#
 - ### Header three - \#\#\# <br>
 Upto header 6 <br>
-Note: A line is created automatically under Header 1.
+Note: A line is created automatically under Header 1
+
+### Links
+- To create a inline link, wrap the text in brackets ( [ ] ) and then link in paranthesis ( () )[Visit my github](https://github.com) 
 -----------

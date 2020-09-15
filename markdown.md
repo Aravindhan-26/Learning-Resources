@@ -12,5 +12,7 @@ Upto header 6 <br>
 Note: A line is created automatically under Header 1
 
 ### Links
-- To create a inline link, wrap the text in brackets ( [ ] ) and then link in paranthesis ( () )[Visit my github](https://github.com) 
+- To create a [inline link](#), wrap the text in brackets ( [ ] ) and then link in paranthesis ( ( ) ) - For example, \[Visit my github\]\(https://github.com\) 
+- To create [reference links][another link]
 -----------
+[another link]: here

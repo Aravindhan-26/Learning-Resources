@@ -7,7 +7,7 @@
 ### Headers
 - # Header one - \#
 - ## Header two - \#\#
-- ### Header three - \#\#\#
+- ### Header three - \#\#\# <br>
 Upto header 6 <br>
 Note: A line is created automatically under Header 1.
 -----------

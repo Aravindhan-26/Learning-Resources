@@ -9,7 +9,7 @@
 - ## Header two - \#\#
 - ### Header three - \#\#\# <br>
 Upto header 6 <br>
-Note: A line is created automatically under Header 1
+Note: A line is created automatically under Header one and header two
 
 ### Links
 - To create a [inline link](#), wrap the text in brackets ( [ ] ) and then link in paranthesis ( ( ) ) - For example, \[Visit my github\]\(https://github.com\) 
@@ -23,7 +23,9 @@ Syntax is same as links<br>
 
 ### Blockquotes
 - Add "greater than" caret ( > ) - 
-> Hello Everyone
+> "Hello Everyone"
+> This is not a great tutorial for markdown.
+> Just for a reference
 -----------
 [md tuts]: https://www.markdowntutorial.com/
 [image]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png

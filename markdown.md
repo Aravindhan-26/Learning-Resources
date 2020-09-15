@@ -13,6 +13,17 @@ Note: A line is created automatically under Header 1
 
 ### Links
 - To create a [inline link](#), wrap the text in brackets ( [ ] ) and then link in paranthesis ( ( ) ) - For example, \[Visit my github\]\(https://github.com\) 
-- To create [reference links][another link]
+- To create [reference links][md tuts] - For example, \[Text\]\[link identifier\]<br>
+In end of md - \[link identifier\]: link
+
+### Images
+Syntax is same as links<br>
+- For inline image add ( ! ) before the link to image. ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+- For reference image follow same as [reference link][image]
+
+### Blockquotes
+- Add "greater than" caret ( > ) - 
+> Hello Everyone
 -----------
-[another link]: here
+[md tuts]: https://www.markdowntutorial.com/
+[image]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png

@@ -23,8 +23,8 @@ Syntax is same as links<br>
 
 ### Blockquotes
 - Add "greater than" caret ( > ) - 
-> "Hello Everyone"
-> This is not a great tutorial for markdown.
+> "Hello Everyone"<br>
+> This is not a great tutorial for markdown.<br>
 > Just for a reference
 -----------
 [md tuts]: https://www.markdowntutorial.com/

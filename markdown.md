@@ -24,8 +24,22 @@ Syntax is same as links<br>
 ### Blockquotes
 - Add "greater than" caret ( > ) - 
 > "Hello Everyone"<br>
-> This is not a great tutorial for markdown.<br>
+> This is **not** a _great tutorial_ for markdown.<br>
 > Just for a reference
+
+### Lists
+- Unordered List - Add each item with an asterisk ( * ) :
+    * Item 1
+        * Sublist (Same * with a space)
+            > Some Quotes
+    * Item 2
+    * Item 3
+- Ordered List - Prefaced with numbers:
+    1. _First_ **Item**
+        > Some Quotes too
+    2. _Second_ **Item**
+
+
 -----------
 [md tuts]: https://www.markdowntutorial.com/
 [image]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png

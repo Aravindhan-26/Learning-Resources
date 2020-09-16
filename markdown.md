@@ -40,10 +40,15 @@ Syntax is same as links<br>
     2. _Second_ **Item**
     
 ### Paragraph - soft space and hard space
-   - Soft space:
+   - Soft space: ( Add 2 blank space at the end of the line.)
       > This is line1 of a paragraph  
-      This is line2  
+      > This is line2  
       This is line3
+   - Hard space: ( Add a new blank line )
+      > This is line1
+      
+      Added a empty line for hard space.  
+      Added 2 spaces to above line
 
 
 -----------

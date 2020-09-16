@@ -41,8 +41,7 @@ Syntax is same as links<br>
     
 ### Paragraph - soft space and hard space
    - Soft space:
-      > This is line1 of a paragraph
-      
+      > This is line1 of a paragraph  
       This is line2  
       This is line3
 

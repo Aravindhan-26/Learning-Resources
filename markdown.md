@@ -1,8 +1,8 @@
 # Markdown Tutorials
 ### Text Decorations
-- _italic_ - surround words with an underscore ( _ ). For example, \_this\_
+- _italic_ - surround words with an underscore ( _ ). For example, \_this\_ or \*this\*
 - **Bold** - surround words with two asterisks( ** ).  \*\*Bold\*\*
-- Try this **_Bold and Italics_** (Place asterisks outside )
+- Try this ***Bold and Italics*** (Three *)
 
 ### Headers
 - # Header one - \#
@@ -25,7 +25,8 @@ Syntax is same as links<br>
 - Add "greater than" caret ( > ) - 
 > "Hello Everyone"<br>
 > This is **not** a _great tutorial_ for markdown.<br>
-> Just for a reference
+>> Just for a reference
+>>>This is to show you.
 
 ### Lists
 - Unordered List - Add each item with an asterisk ( * ) :

@@ -1,2 +1,2 @@
 # Web
-- [](https://github.com/SummerOfCode2020)
+- [(https://github.com/SummerOfCode2020)]

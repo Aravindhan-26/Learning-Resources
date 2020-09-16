@@ -42,12 +42,12 @@ Syntax is same as links<br>
 ### Paragraph - soft space and hard space
    - Soft space: ( Add 2 blank space at the end of the line.)
       > This is line1 of a paragraph  
-      > This is line2  
+      This is line2 ( soft space makes it part of same blockquote paragraph )  
       This is line3
    - Hard space: ( Add a new blank line )
       > This is line1
       
-      Added a empty line for hard space.  
+      Added a empty line for hard space.( Hard space separates the paragraph into another element)  
       Added 2 spaces to above line
 
 

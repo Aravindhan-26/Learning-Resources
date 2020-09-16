@@ -5,4 +5,4 @@ Sessions cover topics in Perception, State Estimation, Action, and Infrastructur
 
 ## CNN
 - [cs231n](http://cs231n.stanford.edu/syllabus.html)
-- 
+- https://github.com/seojpark91/Demystifying-Machine-Learning

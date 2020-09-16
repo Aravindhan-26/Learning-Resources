@@ -37,8 +37,13 @@ Syntax is same as links<br>
 - Ordered List - Prefaced with numbers:
     1. _First_ **Item**
       > Some Quotes too (You can see some more space below)
-    2. _Second_ **Item**  
-      > Some quote with soft space
+    2. _Second_ **Item**
+    
+### Paragraph - soft space and hard space
+   - Soft space:
+      > This is line1 of a paragraphh
+      This is line2
+      This is line3
 
 
 -----------
